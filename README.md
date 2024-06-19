@@ -15,22 +15,22 @@ This dashboard was created following the instructor's guidance, utilizing the Ad
 #### Executive Dashboard
 ![Executive Dashboard](Exec_Dashboard.png)
 
-The Executive Dashboard provides a high-level view of key metrics such as unique customers and revenue per customer. Users can track customer growth and revenue trends over time with line charts, and analyze order distribution by income level and occupation through donut charts. The matrix offers a detailed view of the top 100 customers, allowing for in-depth customer revenue analysis, and highlights the top customer by revenue, providing insights into customer value.
+The Executive Dashboard provides a high-level overview of critical business metrics. Users can analyze overall company performance by tracking key indicators such as revenue, profit, orders, and return rate. The dashboard facilitates trend analysis over time and allows users to delve into product-specific performance, helping identify top-performing products and categories. This high-level summary aids in strategic decision-making and performance monitoring.
 
 #### Map
 ![Map](Map.png)
 
-The Map page allows for geographic analysis of customer distribution and sales performance across various regions including Europe, North America, and the Pacific. Users can identify regional sales trends, evaluate market penetration, and assess geographic performance differences.
+The Map page enables geographic analysis of sales data, showcasing orders by country. Users can filter the data by continent, providing a regional perspective on sales performance. This analysis helps in identifying market trends, regional strengths, and areas needing improvement. It is particularly useful for strategic planning and targeted marketing efforts based on geographical performance.
 
 #### Product Detail
 ![Product Detail](Product_Detail_Exec_Dash.png)
 
-The Product Detail page is focused on analyzing specific product performance. Users can view detailed metrics for selected products, including monthly orders, revenue, and profit versus targets, through gauge charts. Line charts enable the analysis of profit trends and the impact of price adjustments over time. Additionally, users can select different metrics such as transactions, revenue, profit, returns, and return percentage to track their performance trends.
+The Product Detail page offers a granular view of individual product performance. Users can assess how specific products are performing against revenue, transaction, and profit targets. The page also allows for dynamic price adjustment analysis, showing potential profit changes over time with different pricing strategies. Additionally, users can track various metrics such as transactions, revenue, profit, and return rates over time, facilitating detailed product management and strategic adjustments.
 
 #### Customer Detail
 ![Customer Detail](Customer_Detail_Exec_Dash.png)
 
-The Customer Detail page provides insights into customer behavior and demographics. Users can monitor customer acquisition and revenue generation over time through line charts. The matrix showing top customers by transactions and revenue helps in identifying key customers. Donut charts display transaction distribution by customer priority and occupation, while the stacked bar chart offers demographic insights into customer age and gender.
+The Customer Detail page focuses on customer behavior and demographics. It allows users to analyze customer segmentation based on income level and occupation. The page provides insights into unique customers and revenue per customer, helping identify valuable customer segments and trends over time. Additionally, it highlights top customers and their contribution to revenue, enabling targeted customer relationship management and personalized marketing strategies.
 
 [Explore the Adventure Works Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYjdmNDI5MjYtOWQ3Mi00ZGIwLTlmZTAtN2JiODJjYThiYTMzIiwidCI6ImMxYTNmZDRkLTA5MmQtNDRhMS04MWJlLTMyNTdjNzQyY2MxMCIsImMiOjh9)
 
